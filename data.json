@@ -1,0 +1,37 @@
+{
+  "name": [
+    "John Doe",
+    "Jane Smith",
+    "Michael Johnson",
+    "Emily Davis",
+    "Robert Brown"
+  ],
+  "address": [
+    "123 Main St",
+    "456 Elm St",
+    "789 Oak St",
+    "987 Pine St",
+    "654 Maple St"
+  ],
+  "age": [
+    25,
+    32,
+    40,
+    28,
+    37
+  ],
+  "phone": [
+    "555-1234",
+    "555-5678",
+    "555-9012",
+    "555-3456",
+    "555-7890"
+  ],
+  "postcode": [
+    "ABC123",
+    "DEF456",
+    "GHI789",
+    "JKL012",
+    "MNO345"
+  ]
+}
